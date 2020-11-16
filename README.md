@@ -102,4 +102,4 @@
 
   ***
 
-  [![LincedIn](https://clck.ru/RxB7W)](https://www.linkedin.com/in/kaporski/) ![LincedIn](https://clck.ru/RxCZb)
+  [![LincedIn](https://clck.ru/RxB7W)](https://www.linkedin.com/in/kaporski/)
