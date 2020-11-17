@@ -1,8 +1,6 @@
 # React_JS_app
 
-![linc](https://clck.ru/RxBaF)
-
----
+![linc](https://clck.ru/Ry6TY)
 
 **_Данное приложение включает в себя следующие элементы:_**
 
@@ -50,7 +48,7 @@
 
 **3. Карточка товара cодержит следующие данные:**
 
-![linc](https://clck.ru/Rwu3j) ![linc](https://clck.ru/RwuKM)
+![linc](https://clck.ru/Rwu3j) ![linc](https://clck.ru/Ry6dn) ![linc](https://clck.ru/RwuKM)
 
 - фотографию (если не добавлена, то отображает "заглушку", надпись "no image" )
 - название
@@ -71,7 +69,7 @@
 
 **Режим редактирования.**
 
-![linc](https://clck.ru/Rwu8v) ![linc](https://clck.ru/Rx4MR)
+![linc](https://clck.ru/Rwu8v) ![linc](https://clck.ru/Rx4MR) ![linc](https://clck.ru/Ry6vf)
 
 По нажатии кнопки "Редактировать", карточка переходит в режим редактирования, в котором можно изменить следующие значения:
 
