@@ -48,7 +48,7 @@
 
 **3. Карточка товара cодержит следующие данные:**
 
-![linc](https://clck.ru/Rwu3j) ![linc](https://clck.ru/Ry6dn) ![linc](https://clck.ru/RwuKM)
+![linc](https://clck.ru/Ry7gW) ![linc](https://clck.ru/Ry7iS) ![linc](https://clck.ru/Ry7js)
 
 - фотографию (если не добавлена, то отображает "заглушку", надпись "no image" )
 - название
@@ -69,7 +69,7 @@
 
 **Режим редактирования.**
 
-![linc](https://clck.ru/Rwu8v) ![linc](https://clck.ru/Rx4MR) ![linc](https://clck.ru/Ry6vf)
+![linc](https://clck.ru/Ry7eA) ![linc](https://clck.ru/Ry7cS) ![linc](https://clck.ru/Ry7a8)
 
 По нажатии кнопки "Редактировать", карточка переходит в режим редактирования, в котором можно изменить следующие значения:
 
