@@ -69,7 +69,7 @@
 
 **Режим редактирования.**
 
-![linc](https://clck.ru/Ry7eA) ![linc](https://clck.ru/Ry7cS) ![linc](https://clck.ru/Ry7xA)
+![linc](https://clck.ru/Ry7eA) ![linc](https://clck.ru/Ry889) ![linc](https://clck.ru/Ry7xA)
 
 По нажатии кнопки "Редактировать", карточка переходит в режим редактирования, в котором можно изменить следующие значения:
 
