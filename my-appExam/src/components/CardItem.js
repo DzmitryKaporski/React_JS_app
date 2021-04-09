@@ -44,7 +44,7 @@ function CardItem({ id, card, editCard }) {
 
     const blockNone =
         <div className='card-item__block_none' >
-            <a href='https://reactjs.org/'><button className='card-item__button-buy'><b>Bay</b></button></a>
+            <a href='https://reactjs.org/'><button className='card-item__button-buy'><b>Buy</b></button></a>
             <big className='card-item__block-text'>Buy onclick</big>
         </div>
 
