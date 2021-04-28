@@ -1,5 +1,5 @@
-[cards-app]()
-
+*[cards-app view](https://dzmitrykaporski.github.io/React_JS_app/)*
+---
 ![linc](https://clck.ru/Ry6TY)
 
 **_Данное приложение включает в себя следующие элементы:_**
